@@ -1,1 +1,22 @@
-hello world
+git checkout pete
+.
+.
+(game develop)
+.
+.
+git add .
+git commit -m "<description>"
+git push origin pete
+
+
+
+Merge
+
+git checkout main 
+git pull origin main
+git merge pete
+git add .
+git commit -m "merge main + pete"
+git push origin main
+
+
